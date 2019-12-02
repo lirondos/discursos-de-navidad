@@ -1,8 +1,10 @@
-# El discurso del rey. Una radiografía lingüística. 
+# Discursos de Navidad del jefe del Estado: 1937-2018. 
 
-Visualizaciones sobre los discursos de Navidad del rey desde 1975 hasta 2018. 
+Visualizaciones sobre los discursos de Navidad desde 1937 hasta 2018. 
+- [Discursos de Franco vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/franco.html).
 
-- [Discursos de Juan Carlos vs Discursos de Felipe](https://lirondos.github.io/orgulloysatisfaccion/tfidf/juan_carlos.html).
+- [Discursos de la Guerra Civil vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/transicion.html).
+- [Discursos de la Transición vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/transicion.html).
 - [Discursos previos a 1996 vs Discursos posteriores a 1996](https://lirondos.github.io/orgulloysatisfaccion/tfidf/1975_1995.html).
 - [Los años de la transición (1975-1981) vs los demás](https://lirondos.github.io/orgulloysatisfaccion/tfidf/transicion.html).
 - [Los años del socialismo de González (1982-1995) vs los demás](https://lirondos.github.io/orgulloysatisfaccion/tfidf/socialismo.html).
