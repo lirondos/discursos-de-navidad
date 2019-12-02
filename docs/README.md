@@ -1,4 +1,4 @@
-# Discursos de Navidad del jefe del Estado: 1937-2018. 
+# Discursos de Navidad: 1937-2018. 
 
 Visualizaciones sobre los discursos de Navidad desde 1937 hasta 2018. 
 
