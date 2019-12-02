@@ -1,6 +1,6 @@
 # Discursos de Navidad: 1937-2018. 
-
-Visualizaciones sobre los discursos de Navidad desde 1937 hasta 2018. 
+Visualizaciones y comparativas de frecuencia sobre los discursos de Navidad de Franco, Juan Carlos I y Felipe VI.
+ 
 
 ## Visualizaciones
 Visualizaciones por orador:
