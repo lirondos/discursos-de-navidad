@@ -23,14 +23,14 @@ Visualizaciones por periodo histórico:
 
 
 ## ¿Qué es esto?
-Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 hasta hoy. La tradición del discurso de Navidad la inaugura el dictador Francisco Franco en 1937, y fue conservada por el rey Juan Carlos de Borbón y Felipe de Borbón. El punto de partida han sido los 76 discursos de Navidad desde 1937 hasta 2018. El objetivo es poner esta colección de 76 discursos bajo el microscopio de la lingüística para medir de forma empírica cómo ha cambiado el vocabulario de los discursos desde el año 1937 hasta hoy y representarlo gráficamente.    
+Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 hasta hoy. La tradición del discurso de Navidad la inaugura el dictador Francisco Franco en 1937, y fue conservada por los reyes Juan Carlos de Borbón y Felipe de Borbón. El punto de partida han sido los 76 discursos de Navidad desde 1937 hasta 2018. El objetivo es poner esta colección de 76 discursos bajo el microscopio de la lingüística para medir de forma empírica cómo ha cambiado el vocabulario de los discursos desde el año 1937 hasta hoy y representarlo gráficamente.    
 
 
 ## ¿Cómo está hecha la visualización?
 La visualización está hecha mediante la librería de Python [scattertext](https://github.com/JasonKessler/scattertext) y la librería [spaCy](https://spacy.io/). 
 
 ## ¿Se pueden ver los datos, los scripts o los discursos en bruto en algún lado?
-El repositorio con el código del proyecto está [aquí](https://github.com/lirondos/discursos-de-navidad). Los discursos en `txt` así como los metadatos de cada discurso están en la carpeta `data`. 
+El repositorio con el código del proyecto está [aquí](https://github.com/lirondos/discursos-de-navidad). Tanto los discursos como el fichero de metadatos están disponibles para descarga [en la carpeta `data`](https://github.com/lirondos/discursos-de-navidad/tree/master/data). 
 
 
 
