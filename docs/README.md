@@ -14,7 +14,7 @@ Visualizaciones por periodo histórico:
 - [Discursos del primer franquismo (1940-1959) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/primerfranquismo.html).
 - [Discursos del tardofranquismo (1960-1974) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/tardofranquismo.html).
 - [Discursos de la Transición (1975-1981) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/transicion.html).
-- [Discursos del socialismo de González (1982-1995) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/socialismo.html).
+- [Discursos del socialismo (1982-1995) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/socialismo.html).
 - [Discursos de la burbuja económica (1996-2007) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/burbuja.html).
 - [Discursos de la recesión económica (2008-2018) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/recesion.html).
 
