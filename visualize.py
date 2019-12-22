@@ -1,4 +1,5 @@
 from corpus import Corpus
+import corpus
 import pandas as pd
 import scattertext as st
 import spacy
@@ -15,7 +16,7 @@ This proccess can take a while to be done.
 """
 
 
-def create_corpus(category, speeches_df):
+def create_visual_corpus(category, speeches_df):
     """
     creates scattertext corpus from speeches dictionary
     :param category:
@@ -24,6 +25,7 @@ def create_corpus(category, speeches_df):
     """
     corpus = st.CorpusFromPandas(speeches_df, category_col=category, text_col='text', nlp=nlp).build()
     update_stop = []
+    STOP_WORDS.update(["»","—", "«", "cuyas", "cuyos", "100", "fué", "ido", "hubieran", "hagan", "–", "hubiera"])
     for term in STOP_WORDS:
         if term in corpus._term_idx_store:
             update_stop.append(term)
@@ -68,7 +70,7 @@ def get_visualization(category, my_corpus):
     """
     speeches_dict = my_corpus.to_speeches_list()
     speeches_df = pd.DataFrame(speeches_dict)
-    visual_corpus = create_corpus(category, speeches_df)
+    visual_corpus = create_visual_corpus(category, speeches_df)
     types = get_type_list(category, speeches_dict)
     if(len(types) == 2):
         print_graph(visual_corpus, speeches_df, category, types[0], types[1])
@@ -81,8 +83,10 @@ if __name__ == '__main__':
     """
     This main method creates a corpus instance from the corpus class.
     It then creates visualizations based on three features: period of time, king and half of the corpus
-    (first half are speeches before 1996; second half are speeches after 1996)
+    (first half are speeches before 1977 (dictatorship period); second half are speeches after 1978 (democracy))
+
     """
+
     my_corpus = Corpus([])
     categories = ['period', 'king', 'half']
     for category in categories:
