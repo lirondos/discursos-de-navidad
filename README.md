@@ -1,11 +1,13 @@
 # discursos-de-navidad
  
-This project is a corpus analysis of the Christmas speeches delivered by the head of state from 1937 to 2018. It is built using `NLTK`, `spaCy`, `scattertext` and `markovify` libraries. 
-  
-- HTML visualizations available at: https://lirondos.github.io/discursos-de-navidad/ [in Spanish].
-- For information about the traditional Christmas speech: https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech.
+A corpus of the Christmas speeches delivered by the head of state of Spain from 1937 to 2018. The corpus consists of 76 speeches in European Spanish delivered by the head of state (dictator Francisco Franco, king Juan Carlos I and king Felipe VI) from 1937 to 2018. For information about the traditional Christmas speech: https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech. 
 
-This project contains the following files: 
+This project includes: 
+1. the texts of the speeches
+2. a Python interface using `NLTK` and `spaCy` to query the corpus 
+3. a set of HTML visualizations using `scattertext` libraries. (see https://lirondos.github.io/discursos-de-navidad/ [in Spanish]).
+
+The repo contains the following files: 
 * The `data` folder contains the files with the Christmas speeches from 1937 to 2018 in `txt` format and the metadata associated with every speech (year, speaker, URL were it was retrieved).
 * The `Speech` class creates the object Speech with the information for a given speech.
 * The `Corpus` class creates the corpus object that contains the speeches to be analyzed. This class uses the files inside the `speeches` folder. This file also contain the methods to perform the lexical analysis of the created corpus.
