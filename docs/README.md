@@ -54,10 +54,10 @@ Además, la frecuencia que se mide no es simplemente un recuento de palabras sin
 
 
 ## ¿Cómo está hecha la visualización?
-La visualización está hecha con las librerías de Python [scattertext](https://github.com/JasonKessler/scattertext), [NLTK](https://nltk.org) y [spaCy](https://spacy.io/). 
+La visualización está hecha con las librerías de Python [scattertext](https://github.com/JasonKessler/scattertext), [NLTK](https://www.nltk.org) y [spaCy](https://spacy.io/). 
 
 ## ¿Se pueden ver los datos, los scripts o los discursos en bruto en algún lado?
-El repositorio con el código del proyecto está [aquí](https://github.com/lirondos/discursos-de-navidad). Tanto los discursos como el fichero de metadatos están disponibles para descarga [en la carpeta `data`](https://github.com/lirondos/discursos-de-navidad/tree/master/data). 
+El repositorio con el código del proyecto está [aquí](https://github.com/lirondos/discursos-de-navidad). Tanto los discursos como el fichero de metadatos están disponibles para descarga [en la carpeta `data`](https://github.com/lirondos/discursos-de-navidad/tree/master/data). Existe también [esta versión anterior del proyecto con documentación y visualizaciones para los discursos de 1975 en adelante](https://github.com/lirondos/orgulloysatisfaccion)
 
 
 

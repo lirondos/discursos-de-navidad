@@ -47,10 +47,10 @@ def print_graph(corpus, speeches_df, category, type, not_type):
     if type == "2":
         type = "Democracy"
         not_type = "Dictatorship"
-    if type == "Francisco Franco":
-        not_type = "Borbones"
+    #if type == "Francisco Franco":
+    #    not_type = "Borbones"
     html = st.produce_scattertext_explorer(corpus, category=type, category_name=type, not_category_name=not_type, width_in_pixels=1000, metadata=speeches_df[category])
-    open("./visualization/visualization_" + type + ".html", 'wb').write(html.encode('utf-8'))
+    open("./visualization/visualization2_" + type + ".html", 'wb').write(html.encode('utf-8'))
 
 def get_type_list(category, speeches_dict):
     """
@@ -84,9 +84,8 @@ if __name__ == '__main__':
     This main method creates a corpus instance from the corpus class.
     It then creates visualizations based on three features: period of time, king and half of the corpus
     (first half are speeches before 1977 (dictatorship period); second half are speeches after 1978 (democracy))
-
+    
     """
-
     my_corpus = Corpus([])
     categories = ['period', 'king', 'half']
     for category in categories:
