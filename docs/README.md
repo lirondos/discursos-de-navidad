@@ -1,7 +1,7 @@
 # Discursos de Navidad: 1937-2018. 
 Visualizaciones y comparativas de frecuencia léxica sobre los discursos de Navidad de Francisco Franco, Juan Carlos I y Felipe VI.
  
- ## ¿Qué es esto?
+## ¿Qué es esto?
 Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 hasta hoy. La tradición del discurso de Navidad la inaugura el dictador Francisco Franco en 1937, y fue conservada por los reyes Juan Carlos de Borbón y Felipe de Borbón. El punto de partida han sido los 76 discursos de Navidad desde 1937 hasta 2018 (no hubo discurso entre 1940 y 1945). El objetivo es recopilar en un corpus los textos de los discursos (que hasta ahora estaban dispersos en distintos medios y formatos) y medir de forma empírica cómo ha cambiado el vocabulario de los discursos desde el año 1937 hasta hoy y representarlo gráficamente. 
 
 ## Visualizaciones
