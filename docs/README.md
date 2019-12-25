@@ -11,6 +11,11 @@ Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 ha
 | 2014-2019     | 6         |  10.569 | Felipe de Borbón      |
 
 ## Visualizaciones
+Visualizaciones sobre 2019:
+- [El discurso de 2019 vs todos los anteriores](https://lirondos.github.io/discursos-de-navidad/viz/2019.html).
+- [El discurso de 2019 vs todos los de la democracia](https://lirondos.github.io/discursos-de-navidad/viz/democraciavs2019.html).
+
+
 Visualizaciones por orador:
 - [Discursos de Franco vs Discursos de Juan Carlos](https://lirondos.github.io/discursos-de-navidad/viz/francovsjuancarlos.html).
 - [Discursos de Juan Carlos vs Discursos de Felipe](https://lirondos.github.io/discursos-de-navidad/viz/juancarlos_felipe.html).
