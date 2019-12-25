@@ -1,14 +1,14 @@
-# Discursos de Navidad: 1937-2018. 
+# Discursos de Navidad: 1937-2019. 
 Visualizaciones y comparativas de frecuencia léxica sobre los discursos de Navidad de Francisco Franco, Juan Carlos I y Felipe VI.
  
 ## ¿Qué es esto?
-Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 hasta hoy. La tradición del discurso de Navidad la inaugura el dictador Francisco Franco en 1937, y fue conservada por los reyes Juan Carlos de Borbón y Felipe de Borbón. El punto de partida han sido los 76 discursos de Navidad desde 1937 hasta 2018 (no hubo discurso entre 1940 y 1945). El objetivo es recopilar en un corpus los textos de los discursos (que hasta ahora estaban dispersos en distintos medios y formatos), medir de forma empírica cómo ha cambiado el vocabulario de los discursos desde el año 1937 hasta hoy y representarlo gráficamente. 
+Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 hasta hoy. La tradición del discurso de Navidad la inaugura el dictador Francisco Franco en 1937, y fue conservada por los reyes Juan Carlos de Borbón y Felipe de Borbón. El punto de partida han sido los 76 discursos de Navidad desde 1937 hasta 2019 (no hubo discurso entre 1940 y 1945). El objetivo es recopilar en un corpus los textos de los discursos (que hasta ahora estaban dispersos en distintos medios y formatos), medir de forma empírica cómo ha cambiado el vocabulario de los discursos desde el año 1937 hasta hoy y representarlo gráficamente. 
 
 | Años          | Discursos | Tokens  |  Orador               |
 | ------------- |:---------:| -------:| ---------------------:|
-| 1937-1974     | 32        | 140,827 | Francisco Franco      | 
-| 1975-2013     | 39        |  55,541 | Juan Carlos de Borbón |
-| 2014-2018     | 5         |   8,925 | Felipe de Borbón      |
+| 1937-1974     | 32        | 140.827 | Francisco Franco      | 
+| 1975-2013     | 39        |  55.541 | Juan Carlos de Borbón |
+| 2014-2019     | 6         |  10.569 | Felipe de Borbón      |
 
 ## Visualizaciones
 Visualizaciones por orador:
@@ -20,7 +20,7 @@ Visualizaciones por orador:
 
 
 Visualizaciones por periodo histórico:
-- [Discursos de la dictadura franquista (1937-1977) vs discursos de la democracia (1978-2018)](https://lirondos.github.io/discursos-de-navidad/viz/dictadura.html).
+- [Discursos de la dictadura franquista (1937-1977) vs discursos de la democracia (1978-2019)](https://lirondos.github.io/discursos-de-navidad/viz/dictadura.html).
 - [Discursos del primer franquismo (1940-1959) vs discursos del tardofranquismo  (1960-1975)](https://lirondos.github.io/discursos-de-navidad/viz/primervstardofranquismo.html).
 - [Discursos de la Guerra Civil (1937-1939) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/guerra.html).
 - [Discursos del primer franquismo (1940-1959) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/primerfranquismo.html).
@@ -28,21 +28,21 @@ Visualizaciones por periodo histórico:
 - [Discursos de la Transición (1975-1981) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/transicion.html).
 - [Discursos del socialismo (1982-1995) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/socialismo.html).
 - [Discursos de la burbuja económica (1996-2007) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/burbuja.html).
-- [Discursos de la recesión económica (2008-2018) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/recesion.html).
+- [Discursos de la recesión económica (2008-2019) vs los demás](https://lirondos.github.io/discursos-de-navidad/viz/recesion.html).
 
 Comparativas de la democracia: las siguientes gráficas solo comparan un periodo de tiempo respecto a 1975 en adelante: 
 - [Discursos entre 1975 y 1996 vs Discursos posteriores a 1996](https://lirondos.github.io/orgulloysatisfaccion/tfidf/1975_1995.html).
 - [Los años de la transición (1975-1981) vs todos los posteriores](https://lirondos.github.io/orgulloysatisfaccion/tfidf/transicion.html).
 - [Los años del socialismo de González (1982-1995) vs los demás (1975-1981 y de 1996 en adelante)](https://lirondos.github.io/orgulloysatisfaccion/tfidf/socialismo.html).
-- [Los años de la burbuja económica (1996-2007) vs los demás (1975-1996 y 2008-2018)](https://lirondos.github.io/orgulloysatisfaccion/tfidf/burbuja.html).
-- [Los años de la recesión económica (2008-2018) vs los demás (1975-2007)](https://lirondos.github.io/orgulloysatisfaccion/tfidf/recesion.html).
+- [Los años de la burbuja económica (1996-2007) vs los demás (1975-1996 y 2008-2019)](https://lirondos.github.io/orgulloysatisfaccion/tfidf/burbuja.html).
+- [Los años de la recesión económica (2008-2019) vs los demás (1975-2007)](https://lirondos.github.io/orgulloysatisfaccion/tfidf/recesion.html).
 
    
 ## ¿Qué representa cada gráfica?
 Hay muchas mediciones posibles que se pueden extraer de un conjunto de  discursos. En el caso de estas gráficas, cada gráfica representa una comparación. Por ejemplo, podemos comparar el léxico de los discursos de Francisco Franco con los discursos de Juan Carlos y medir sus diferencias de vocabulario. O podemos partir la colección en intervalos temporales y comparar los discursos de un grupo con los de otro. En este caso, las gráficas se han obtenido atendiendo a los siguientes criterios: 
 * Atendiendo al jefe del estado que da el discurso: discursos de Francisco Franco, Juan Carlos I y Felipe VI. 
-* Atendiendo al periodo políco: discursos de la dictadura (desde 1937 hasta 1977) vs discursos de la democracia (1978-2018)
-* Atendiendo a la situación social/política/económica: para este criterio, hemos dividido la colección de discursos en siete periodos: guera civil (1937-1939), primer franquismo (1940-1959), tardofranquismo (1960-1974), transición (1975-1981), años del socialismo (1981-1995), años de la burbuja (1996-2007) y recesión económica (2008-2018). 
+* Atendiendo al periodo políco: discursos de la dictadura (desde 1937 hasta 1977) vs discursos de la democracia (1978-2019)
+* Atendiendo a la situación social/política/económica: para este criterio, hemos dividido la colección de discursos en siete periodos: guera civil (1937-1939), primer franquismo (1940-1959), tardofranquismo (1960-1974), transición (1975-1981), años del socialismo (1981-1995), años de la burbuja (1996-2007) y recesión económica (2008-2019). 
 
 ## ¿Cómo se lee cada gráfica?
 Cada una de las gráficas representa una de las anteriores comparaciones. Las comparaciones son siempre binarias (es decir, Felipe vs Juan Carlos, democracia vs dictadura, burbuja vs no burbuja, etc) y los ejes x e y de la gráfica reprensentan cada uno de los dos grupos de la comparación. 

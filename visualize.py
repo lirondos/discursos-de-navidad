@@ -25,7 +25,7 @@ def create_visual_corpus(category, speeches_df):
     """
     corpus = st.CorpusFromPandas(speeches_df, category_col=category, text_col='text', nlp=nlp).build()
     update_stop = []
-    STOP_WORDS.update(["»","—", "«", "cuyas", "cuyos", "100", "fué", "ido", "hubieran", "hagan", "–", "hubiera"])
+    STOP_WORDS.update(["»","—", "«", "cuyas", "cuyos", "100", "fué", "ido", "hubieran", "hagan", "–", "hubiera", "tuve"])
     for term in STOP_WORDS:
         if term in corpus._term_idx_store:
             update_stop.append(term)
@@ -50,7 +50,7 @@ def print_graph(corpus, speeches_df, category, type, not_type):
     #if type == "Francisco Franco":
     #    not_type = "Borbones"
     html = st.produce_scattertext_explorer(corpus, category=type, category_name=type, not_category_name=not_type, width_in_pixels=1000, metadata=speeches_df[category])
-    open("./visualization/visualization2_" + type + ".html", 'wb').write(html.encode('utf-8'))
+    open("./visualization/visualization_" + type + ".html", 'wb').write(html.encode('utf-8'))
 
 def get_type_list(category, speeches_dict):
     """

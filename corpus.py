@@ -160,6 +160,7 @@ def get_period(year):
     elif(year>=2008):
         return "Recession"
 
+
 def create_corpus(first_year, last_year):
     """
     Method to call the corpus constructor to build a corpus for a consecutive set of years
@@ -190,7 +191,7 @@ if __name__ == '__main__':
     general = Corpus([])
     general.radiography()
 
-    my_corpora = [create_corpus(1937, 1974), create_corpus(1975, 2013), create_corpus(2014, 2018)]
+    my_corpora = [create_corpus(1937, 1974), create_corpus(1975, 2013), create_corpus(2014, 2019)]
     for corpus in my_corpora:
         corpus.radiography()
 
