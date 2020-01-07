@@ -1,6 +1,6 @@
 # discursos-de-navidad
  
-A corpus of the Christmas speeches delivered by the head of state of Spain from 1937 to 2018. The corpus consists of 76 speeches in European Spanish delivered by the head of state (dictator Francisco Franco, king Juan Carlos I and king Felipe VI) from 1937 to 2018. For information about the traditional Christmas speech: https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech. 
+A corpus of the Christmas speeches delivered by the head of state of Spain from 1937 to 2019. The corpus consists of 77 speeches in European Spanish delivered by the head of state (dictator Francisco Franco, king Juan Carlos I and king Felipe VI) from 1937 to 2019. For information about the traditional Christmas speech: https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech. 
 
 This project includes: 
 1. the texts of the speeches
