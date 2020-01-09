@@ -12,7 +12,7 @@ This repo contains the corpus files, the corpus interface and the visualization 
 This repo includes: 
 1. the texts of the speeches
 2. a Python interface using `NLTK` and `spaCy` to query the corpus 
-3. a set of HTML visualizations using `scattertext` libraries. (see https://lirondos.github.io/discursos-de-navidad/ [in Spanish]).
+3. a set of HTML visualizations using `scattertext` libraries. (see [HTML visualizations](https://lirondos.github.io/discursos-de-navidad/) [in Spanish]).
 
 The repo contains the following files: 
 * The `data` folder contains the files with the Christmas speeches from 1937 to 2018 in `txt` format and the metadata associated with every speech (year, speaker, URL were it was retrieved).
