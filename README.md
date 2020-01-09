@@ -1,10 +1,15 @@
 # discursos-de-navidad
  
-A corpus of the Christmas speeches delivered by the head of state of Spain from 1937 to 2019. The corpus consists of 77 speeches in European Spanish delivered by the head of state (dictator Francisco Franco, king Juan Carlos I and king Felipe VI) from 1937 to 2019. For information about the traditional Christmas speech see: https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech. 
+A corpus of the Christmas speeches delivered by the head of state of Spain from 1937 to 2019. The corpus consists of 77 speeches (206,937 tokens) written in European Spanish that were delivered by the different heads of state from 1937 to 2019 (dictator Francisco Franco, king Juan Carlos I and king Felipe VI). 
 
-This repo contains the code of the corpus files, the corpus interface and the visualization scripts. For the main website of the project (with HTML visualizations, etc) please visit: https://lirondos.github.io/discursos-de-navidad/ (in Spanish).
+This repo contains the corpus files, the corpus interface and the visualization scripts. 
 
-This project includes: 
+* For the main website of the project (with HTML visualizations, etc) please visit: https://lirondos.github.io/discursos-de-navidad/ (in Spanish).
+* For information about the traditional Christmas speech see: https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech. 
+* A previous version of this project (with speeches only from 1975 on and a markov speech generator) can be found at https://github.com/lirondos/orgulloysatisfaccion
+* This project was featured in Spanish newspaper *eldiario.es* on December 2019: https://www.eldiario.es/sociedad/Comunismo-Union-Europea-evolucionado-Navidad_0_977452464.html 
+
+This repo includes: 
 1. the texts of the speeches
 2. a Python interface using `NLTK` and `spaCy` to query the corpus 
 3. a set of HTML visualizations using `scattertext` libraries. (see https://lirondos.github.io/discursos-de-navidad/ [in Spanish]).
@@ -31,4 +36,4 @@ This project requires the following libraries:
 * `newspaper`
 * `matplotlib`
 
-A previous version of this project (with speeches only from 1975 on and a markov speech generator) can be found at https://github.com/lirondos/orgulloysatisfaccion
+
