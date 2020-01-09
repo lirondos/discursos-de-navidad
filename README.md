@@ -5,8 +5,8 @@ A corpus of the Christmas speeches delivered by the head of state of Spain from 
 This repo contains the corpus files, the corpus interface and the visualization scripts. 
 
 * For the main page of the project (with visualizations, etc) please visit the [website of the project](https://lirondos.github.io/discursos-de-navidad/) (in Spanish).
-* For information about the traditional Christmas speech see [Wikipedia's page about the Christmas Eve National Speech](https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech). 
-* A previous version of this project (with speeches only from 1975 on and a markov speech generator) can be found [here](https://github.com/lirondos/orgulloysatisfaccion).
+* For information about the Christmas speech see [Wikipedia's page about the Christmas Eve National Speech](https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech). 
+* A previous version of this project (with speeches only from 1975 on) can be found [here](https://github.com/lirondos/orgulloysatisfaccion).
 * This project was featured in Spanish newspaper *eldiario.es* on December 2019. [See the article (in Spanish)](https://www.eldiario.es/sociedad/Comunismo-Union-Europea-evolucionado-Navidad_0_977452464.html) 
 
 This repo includes: 
