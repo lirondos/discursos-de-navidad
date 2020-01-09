@@ -1,4 +1,4 @@
-# discursos-de-navidad
+# A corpus of Spanish political speeches from 1937 to 2019
  
 A corpus of the Christmas speeches delivered by the head of state of Spain from 1937 to 2019. The corpus consists of 77 speeches (206,937 tokens) written in European Spanish that were delivered by the different heads of state from 1937 to 2019 (dictator Francisco Franco, king Juan Carlos I and king Felipe VI). 
 
