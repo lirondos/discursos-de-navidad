@@ -24,16 +24,7 @@ The files that have a main method than can be executed are:
 * `corpus.py` (creates several corpus objects for different time periods of time and calls the radiography method in order to get their lexical analysis)
 * `visualize.py` (creates an instance of the corpus class and generates several visualization files with TF-IDF measures using the scattertext library)
 
-This project requires the following libraries: 
-* `nltk`
-* `spacy`
-* `pandas`
-* `scattertext`
-* `markovify`
-* `os`
-* `re`
-* `time`
-* `newspaper`
-* `matplotlib`
+The file `requirements.txt` contains the libraries required to run the program. After installing the repo, just run the following command: 
+`pip install -r requirements.txt`
 
 
