@@ -5,6 +5,7 @@ A corpus of political speeches delivered by the head of state of Spain from 1937
 This repo contains the corpus files, the corpus interface and the visualization scripts. 
 
 * For the main page of the project (with visualizations, etc) please visit the [website of the project](https://lirondos.github.io/discursos-de-navidad/) (in Spanish).
+* The description of this corpus can be found on the LREC paper [*A Corpus of Spanish Political Speeches from 1937 to 2019*](https://www.aclweb.org/anthology/2020.lrec-1.116/)
 * For information about the Christmas speech see [Wikipedia's page about the Christmas Eve National Speech](https://en.wikipedia.org/wiki/Christmas_Eve_National_Speech). 
 * A previous version of this project (with speeches only from 1975 on) can be found [here](https://github.com/lirondos/orgulloysatisfaccion).
 * This project was featured in Spanish newspaper *eldiario.es* on December 2019. [See the article (in Spanish)](https://www.eldiario.es/sociedad/Comunismo-Union-Europea-evolucionado-Navidad_0_977452464.html) 
@@ -27,4 +28,18 @@ The files that have a main method than can be executed are:
 The file `requirements.txt` contains the libraries required to run the program. After installing the repo, just run the following command: 
 `pip install -r requirements.txt`
 
-
+When citing this work please use the following reference to my LREC paper: 
+```
+@inproceedings{alvarez-mellado-2020-corpus,
+    title = "A Corpus of {S}panish Political Speeches from 1937 to 2019",
+    author = "{\'A}lvarez-Mellado, Elena",
+    booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.116",
+    pages = "928--932",
+    ISBN = "979-10-95546-34-4",
+}
+```
