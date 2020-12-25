@@ -157,8 +157,10 @@ def get_period(year):
         return "Socialism"
     elif(year >= 1996 and year < 2008):
         return "Bubble"
-    elif(year>=2008):
+    elif(year>=2008 and year < 2020):
         return "Recession"
+    elif(year>=2020):
+        return "2020"
 
 
 def create_corpus(first_year, last_year):
@@ -191,7 +193,7 @@ if __name__ == '__main__':
     general = Corpus([])
     general.radiography()
 
-    my_corpora = [create_corpus(1937, 1974), create_corpus(1975, 2013), create_corpus(2014, 2019)]
+    my_corpora = [create_corpus(1937, 1974), create_corpus(1975, 2013), create_corpus(2014, 2019), create_corpus(2020, 2020)]
     for corpus in my_corpora:
         corpus.radiography()
 
