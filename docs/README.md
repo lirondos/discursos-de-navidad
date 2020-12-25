@@ -13,7 +13,7 @@ Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 ha
 ## Visualizaciones
 Visualizaciones sobre 2020:
 - [El discurso de 2020 vs todos los anteriores](https://lirondos.github.io/discursos-de-navidad/viz/2020.html).
-- [El discurso de 2020 vs todos los de la democracia](https://lirondos.github.io/discursos-de-navidad/viz/democraciavs2019.html).
+- [El discurso de 2020 vs todos los de la democracia](https://lirondos.github.io/discursos-de-navidad/viz/democraciavs2020.html).
 
 Visualizaciones sobre 2019:
 - [El discurso de 2019 vs todos los anteriores](https://lirondos.github.io/discursos-de-navidad/viz/2019.html).
