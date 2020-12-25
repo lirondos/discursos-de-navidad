@@ -71,7 +71,12 @@ Además, la frecuencia que se mide no es simplemente un recuento de palabras sin
 ## ¿Cómo está hecha la visualización?
 La visualización está hecha con las librerías de Python [scattertext](https://github.com/JasonKessler/scattertext), [NLTK](https://www.nltk.org) y [spaCy](https://spacy.io/). 
 
-## ¿Se pueden ver los datos, los scripts o los discursos en bruto en algún lado?
+## ¿Dónde se puede leer más sobre el proyecto?
+Las cuestiones técnicas sobre el corpus, la interfaz en Python y las visualizaciones están explicadas en el _paper_ [A Corpus of Spanish Political Speeches from 1937 to 2019](https://www.aclweb.org/anthology/2020.lrec-1.116/), publicado en _12th Language Resources and Evaluation Conference_.
+
+El proyecto fue también reseñado en [esta noticia de elDiario.es](https://www.eldiario.es/sociedad/comunismo-union-europea-evolucionado-navidad_1_1173680.html).
+
+## ¿Se pueden ver los datos, los scripts o los ficheros de los discursos en bruto en algún lado?
 El repositorio con el código del proyecto está [aquí](https://github.com/lirondos/discursos-de-navidad). Tanto los discursos como el fichero de metadatos están disponibles para descarga [en la carpeta `data`](https://github.com/lirondos/discursos-de-navidad/tree/master/data). Existe también [esta versión anterior del proyecto con documentación y visualizaciones para los discursos de 1975 en adelante](https://github.com/lirondos/orgulloysatisfaccion)
 
 
