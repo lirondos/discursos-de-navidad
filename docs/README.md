@@ -8,9 +8,13 @@ Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 ha
 | ------------- |:---------:| -------:| ---------------------:|
 | 1937-1974     | 32        | 140.827 | Francisco Franco      | 
 | 1975-2013     | 39        |  55.541 | Juan Carlos de Borbón |
-| 2014-2019     | 6         |  10.569 | Felipe de Borbón      |
+| 2014-2020     | 7         |  12.464 | Felipe de Borbón      |
 
 ## Visualizaciones
+Visualizaciones sobre 2020:
+- [El discurso de 2020 vs todos los anteriores](https://lirondos.github.io/discursos-de-navidad/viz/2020.html).
+- [El discurso de 2020 vs todos los de la democracia](https://lirondos.github.io/discursos-de-navidad/viz/democraciavs2019.html).
+
 Visualizaciones sobre 2019:
 - [El discurso de 2019 vs todos los anteriores](https://lirondos.github.io/discursos-de-navidad/viz/2019.html).
 - [El discurso de 2019 vs todos los de la democracia](https://lirondos.github.io/discursos-de-navidad/viz/democraciavs2019.html).

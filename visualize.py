@@ -1,4 +1,4 @@
-from corpus import Corpus
+from corpus import Corpus, create_corpus
 import corpus
 import pandas as pd
 import scattertext as st
