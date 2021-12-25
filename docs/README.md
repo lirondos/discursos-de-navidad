@@ -1,4 +1,4 @@
-# Discursos de Navidad: 1937-2020. 
+# Discursos de Navidad: 1937-2021. 
 Visualizaciones y comparativas de frecuencia léxica sobre los discursos de Navidad de Francisco Franco, Juan Carlos I y Felipe VI.
  
 ## ¿Qué es esto?
@@ -8,9 +8,12 @@ Estas son las visualizaciones de un corpus de discursos de Navidad desde 1937 ha
 | ------------- |:---------:| -------:| ---------------------:|
 | 1937-1974     | 32        | 140.827 | Francisco Franco      | 
 | 1975-2013     | 39        |  55.541 | Juan Carlos de Borbón |
-| 2014-2021     | 8         |  12.464 | Felipe de Borbón      |
+| 2014-2021     | 8         |  14.237 | Felipe de Borbón      |
 
 ## Visualizaciones
+Visualizaciones sobre 2021:
+- [El discurso de 2021 vs todos los anteriores](https://lirondos.github.io/discursos-de-navidad/viz/2020.html).
+
 Visualizaciones sobre 2020:
 - [El discurso de 2020 vs todos los anteriores](https://lirondos.github.io/discursos-de-navidad/viz/2020.html).
 - [El discurso de 2020 vs todos los de la democracia](https://lirondos.github.io/discursos-de-navidad/viz/democraciavs2020.html).
