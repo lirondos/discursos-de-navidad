@@ -1,6 +1,6 @@
-# A corpus of Spanish political speeches from 1937 to 2019
+# A corpus of Spanish political speeches from 1937 to 2021
  
-A corpus of political speeches delivered by the head of state of Spain from 1937 to 2019. The corpus consists of 77 speeches (206,937 tokens) written in European Spanish that were delivered on Christmas by the different heads of state of Spain from 1937 to 2019 (dictator Francisco Franco, king Juan Carlos I and king Felipe VI). 
+A corpus of political speeches delivered by the head of state of Spain from 1937 to 2021. The corpus consists of 77 speeches (206,937 tokens) written in European Spanish that were delivered on Christmas by the different heads of state of Spain from 1937 to 2021 (dictator Francisco Franco, king Juan Carlos I and king Felipe VI). 
 
 This repo contains the corpus files, the corpus interface and the visualization scripts. 
 
@@ -16,7 +16,7 @@ This repo includes:
 3. a set of HTML visualizations using `scattertext` libraries. (see [HTML visualizations](https://lirondos.github.io/discursos-de-navidad/) [in Spanish]).
 
 The repo contains the following files: 
-* The `data` folder contains the files with the Christmas speeches from 1937 to 2019 in `txt` format and the metadata associated with every speech (year, speaker, URL were it was retrieved).
+* The `data` folder contains the files with the Christmas speeches from 1937 to 2021 in `txt` format and the metadata associated with every speech (year, speaker, URL were it was retrieved).
 * The `Speech` class creates the object Speech with the information for a given speech.
 * The `Corpus` class creates the corpus object that contains the speeches to be analyzed. This class uses the files inside the `speeches` folder. This file also contain the methods to perform the lexical analysis of the created corpus.
 * The `visualize.py` script creates interactive HTML visualization from TF-IDF measures using `scattertext` library. The visualization files are stored inside the visualization folder.
