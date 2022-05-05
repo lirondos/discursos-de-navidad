@@ -1,6 +1,6 @@
-# A corpus of Spanish political speeches from 1937 to 2021
+# A corpus of Spanish political speeches from 1937 to 2021    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  
-A corpus of political speeches delivered by the head of state of Spain from 1937 to 2021. The corpus consists of 77 speeches (206,937 tokens) written in European Spanish that were delivered on Christmas by the different heads of state of Spain from 1937 to 2021 (dictator Francisco Franco, king Juan Carlos I and king Felipe VI). 
+Hola     xxxxxx   A corpus of political speeches delivered by the head of state of Spain from 1937 to 2021. The corpus consists of 77 speeches (206,937 tokens) written in European Spanish that were delivered on Christmas by the different heads of state of Spain from 1937 to 2021 (dictator Francisco Franco, king Juan Carlos I and king Felipe VI). 
 
 This repo contains the corpus files, the corpus interface and the visualization scripts. 
 
