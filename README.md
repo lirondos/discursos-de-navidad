@@ -1,10 +1,7 @@
-# titulo #
+# Discursos arquitectonicos sobre la sostenibilidad#
  
-texto
-[sitio web](https://gonzaldama.github.io/discursos/1) 
-
-
-Autor original
+Autor
+```
 @inproceedings{alvarez-mellado-2020-corpus,
     title = "A Corpus of {S}panish Political Speeches from 1937 to 2019",
     author = "{\'A}lvarez-Mellado, Elena",
